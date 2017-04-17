@@ -1,2 +1,3 @@
-# Blog_Resource
-存放github博客资源文件
+# 我的博客资源文件
+参考：博客地址：http://lawlite.me/
+
